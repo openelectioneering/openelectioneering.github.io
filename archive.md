@@ -1,9 +1,9 @@
 ---
-layout: index
+layout: page
+title: Archive
+permalink: /archive/
 ---
-<center>Opening election insights</center>
 
-<!--
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
@@ -23,4 +23,3 @@ layout: index
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
--->
